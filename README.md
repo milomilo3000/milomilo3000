@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-I'm **Milan**, a Singapore-based student interested in the intersection of **data, climate, and economics**.
+I'm **Milan**, a Singaporean student interested in the intersection of **data, climate, and economics**. I am currently an **undergraduate** student, majoring in **Electrical and Computer Engineering** at **Princeton University**. 
 
 ---
 
 ### 👨‍💻 What I’m doing now
 
-- Serving **National Service** in Singapore.
+- Undergraduate Student at Princeton University, Electrical and Computer Engineering, Class of 2030.
+- Served **National Service** in Singapore.
 - Building **SG ClimateHub**, a youth one-stop climate-action platform that:
   - tracks carbon footprints with a Singapore youth-specific emphasis,
-  - runs camp-wide eco-challenges for NSFs,
+  - runs camp-wide eco-challenges for National Servicemen, Singaporean youth students.
   - provides personalised recommendations on carbon-reduction.
   - gamifies carbon tracking for youth,
   - provides youth with access to exclusive sustainability events across Singapore
@@ -22,6 +23,7 @@ I'm **Milan**, a Singapore-based student interested in the intersection of **dat
 - **Web:** React, Node.js / Express, basic front-end frameworks, REST APIs  
 - **Data & modeling:** statistics, simple optimization and systems modelling, working with APIs/CSV data  
 - **Other:** Git/GitHub, MongoDB, basic deployment (Render/Netlify), LaTeX for math-heavy work
+- Currently learning Arduino as well.
 
 I care about writing clear, maintainable code and documenting what I build so others can use it.
 
